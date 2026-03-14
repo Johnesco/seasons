@@ -1,4 +1,4 @@
-"Seasons" by "John Escobedo"
+"Seasons" by "Anonymous"
 
 The story headline is "A Cycle Without End".
 The story genre is "Fiction".

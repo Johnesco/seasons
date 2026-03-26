@@ -1,0 +1,26 @@
+# Seasons — RegTest scenarios
+# Atmospheric observation walk through four seasons
+
+** game: ../seasons.ulx
+
+* startup
+> look
+{vital}
+
+* full-run
+> look
+> examine branches
+> examine snow
+> south
+> look
+> examine crocuses
+> examine birdsong
+> south
+> look
+> examine grass
+> examine sunlight
+> south
+> look
+> examine leaves
+> south
+> look

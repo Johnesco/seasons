@@ -1,0 +1,6 @@
+{
+  "scenarios": [
+    { "name": "startup", "title": "Winter Clearing", "category": "Smoke Tests" },
+    { "name": "full-run", "title": "Walk Through All Seasons", "category": "Win Paths", "primary": true }
+  ]
+}

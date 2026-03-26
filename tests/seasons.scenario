@@ -1,0 +1,24 @@
+# Seasons — RegTest scenarios
+# Atmospheric observation walk through four seasons
+
+
+== startup: Winter Clearing  [smoke tests]
+> look
+
+== full-run: Walk Through All Seasons  [win paths, primary]
+> look
+> examine branches
+> examine snow
+> south
+> look
+> examine crocuses
+> examine birdsong
+> south
+> look
+> examine grass
+> examine sunlight
+> south
+> look
+> examine leaves
+> south
+> look

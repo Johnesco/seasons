@@ -1,28 +1,4 @@
+Glulxe fatal error: The game file could not be opened. ()
 
 
-
-
-Seasons
-A Cycle Without End by Anonymous
-Release 1 / Serial number 260322 / Inform 7 v10.1.2 / D
-A meditation in four movements.
-
-Winter
-Bare branches scratch against a pale sky. Snow blankets everything in heavy silence, muffling your footsteps.
-
-A path leads south toward warmth, or north into falling leaves.
-
-
-> look
-Winter
-Bare branches scratch against a pale sky. Snow blankets everything in heavy silence, muffling your footsteps.
-
-A path leads south toward warmth, or north into falling leaves.
-
-
-> score
-There is no score in this story.
-
-
-> quit
-Are you sure you want to quit? 
+[ERROR: [Errno 22] Invalid argument]

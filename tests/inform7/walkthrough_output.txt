@@ -4,7 +4,7 @@
 
 Seasons
 A Cycle Without End by Anonymous
-Release 1 / Serial number 260322 / Inform 7 v10.1.2 / D
+Release 1 / Serial number 260922 / Inform 7 v10.1.2 / D
 A meditation in four movements.
 
 Winter
@@ -74,6 +74,8 @@ A path leads south toward warmth, or north into falling leaves.
 Bare branches scratch against a pale sky. Snow blankets everything in heavy silence, muffling your footsteps.
 
 A path leads south toward warmth, or north into falling leaves.
+
+>There is no score in this story.
 
 >
 <end of input>
